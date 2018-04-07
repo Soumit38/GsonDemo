@@ -1,0 +1,12 @@
+{
+  "name": "Soumit kumar Kundu",
+  "email": "soumit@gmail.com",
+  "age": 20,
+  "isDeveloper": true,
+  "userAddress":{
+    "street": "Main Street",
+    "houseNumber": "42A",
+    "city": "Magdeburg",
+    "country": "Germany"
+  }
+}
